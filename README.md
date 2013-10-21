@@ -27,4 +27,4 @@ License: Creative Commons NC SA 3.0
 License URL: http://creativecommons.org/licenses/by-nc-sa/3.0/au/deed.en_GB
 ________________________________________________________________________________________________
  
-The MAX4466 is a amp for a 9.7mm electric Mic and can be used on your projects to give them sense of sound!
+The MAX4466 is a micropower op amp a electric Mic and can be used on your projects to give them sense of sound!
